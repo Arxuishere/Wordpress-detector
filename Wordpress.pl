@@ -1,6 +1,5 @@
 #!/usr/bin/perl
 # Wordpress Detector
-# Coded By : DR-IMAN ( Telegram : @DarkCod3r )
 # List Of Wordpress Vulnerabilities
 
 use Term::ANSIColor;
@@ -318,7 +317,7 @@ sub IP_id {
 system(($^O eq 'MSWin32') ? 'cls' : 'clear');
 sub Into {
 print"\n";
-print colored ("                           >> Coded By DR-IMAN << ",'bold yellow'),"\n";
+print colored ("                           >> Coded By ĀRXŪ << ",'bold yellow'),"\n";
 	print qq(                         
                                           ,,                                            
 `7MMF'     A     `7MF'                  `7MM                                            
